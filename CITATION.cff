@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "The purpose of this file is to correctly link the paper to the code."
+authors:
+  - family-names: Vacus
+    given-names: Robin
+    orcid: https://orcid.org/0000-0002-7368-4912
+title: "Enhanced Food Availability can Deteriorate Fitness through Excessive Scrounging: figure generation."
+version: 1.0.0
+date-released: 2023-07-07
