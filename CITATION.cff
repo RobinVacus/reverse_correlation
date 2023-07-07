@@ -4,6 +4,7 @@ authors:
   - family-names: Vacus
     given-names: Robin
     orcid: https://orcid.org/0000-0002-7368-4912
-title: "Enhanced Food Availability can Deteriorate Fitness through Excessive Scrounging: figure generation."
+title: "Figure Generation Code for ``Enhanced Food Availability can Deteriorate Fitness through Excessive Scrounging''"
 version: 1.0.0
 date-released: 2023-07-07
+url: "https://github.com/RobinVacus/reverse_correlation"
